@@ -33,32 +33,59 @@ that would change the theme for the first stage.
 
 Theme list:
 `0 = NULL                    }
+
 1 = TYPE A / Sky             }
+
 2 = TYPE B / Night           }
+
 3 = TYPE C / Sunset          }
+
 4 = TYPE D / Water           }
+
 5 = TYPE E / Storm           } - Monkey Ball themes
+
 6 = TYPE F / Ice             }
+
 7 = TYPE G / Sand            }
+
 8 = TYPE H / Space           }
+
 9 = TYPE I / Cave            }
+
 A = TYPE J / Bonus / Master  }
+
 B = E3 (unknown)
+
 C = Jungle
+
 D = Water
+
 E = Night
+
 F = Sun
+
 10 = Space
+
 11 = Sand
+
 12 = Ice
+
 13 = Storm
+
 14 = Bonus
+
 15 = Pilot (crashes if stage isn't already a Monkey Target level)
+
 16 = Billiards
+
 17 = Golf
+
 18 = Bowling
+
 19 = Master
+
 1A = Ending`
+
 You can also find this using Test Mode.
 
 Challenge mode:

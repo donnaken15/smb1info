@@ -139,6 +139,20 @@ happening right before the player can move.
 
 
 
+# Going past 200 stages
+
+Yes, that's right, you can have challenge mode difficulties have stages
+
+with an ID value higher than 200, though it won't change how many stages
+
+are viewable or playable via the non-difficulty stage select list in
+
+Test Mode. The value that sets the stage ID uses a short value, so setting
+
+it past 0x7FFF causes it to go negative.
+
+
+
 # /test/
 
 

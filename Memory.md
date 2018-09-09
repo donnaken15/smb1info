@@ -16,7 +16,7 @@ Memory Addresses
 - `804FF6A3`: Monkey Face Status (face IDs: (will list soon)) | Short?
 - `802F222A`: Credits Banana count | Short
 
-###HUD
+### HUD
 
 - `8028D7C6`
   `8028D7CE`

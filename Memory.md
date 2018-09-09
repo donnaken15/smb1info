@@ -22,5 +22,6 @@ Memory Addresses
   `8028D7CE`
   `802BA190`
   `802BA194`: SCORE text X position
+  
   more is going to be discovered soon
 
